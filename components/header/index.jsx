@@ -2,7 +2,6 @@ import React from "react";
 import styles from "./Header.module.css";
 import CTA from "./CTA";
 import ME from "../../assets/me.png";
-import ME2 from "../../assets/me2.png";
 import HeaderSocials from "./HeaderSocials";
 import Image from "next/image";
 

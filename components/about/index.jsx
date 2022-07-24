@@ -20,23 +20,6 @@ const About = () => {
           </div>
         </div>
         <div className={styles.about__content}>
-          {/* <div className={styles.about__cards}>
-            <article className={styles.about__card}>
-              <FaAward className={styles.about__icon} />
-              <h5>Experience</h5>
-              <small>3+ Year Working</small>
-            </article>
-            <article className={styles.about__card}>
-              <FiUsers className={styles.about__icon} />
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
-            </article>
-            <article className={styles.about__card}>
-              <VscFolderLibrary className={styles.about__icon} />
-              <h5>Projects</h5>
-              <small>80+ Completed</small>
-            </article>
-          </div> */}
           <p>
             A person who passionate about learning, likes to collaborate,
             interested in logic and problem solving. Experience in making
